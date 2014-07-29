@@ -1,6 +1,6 @@
 (ns rgrep.core)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+(defn help
+  "Generic help about RGrep"
+  []
+  (println x "A Grep clone written in Clojure"))
